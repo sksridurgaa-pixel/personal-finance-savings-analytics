@@ -64,6 +64,12 @@ additional savings.
 
 | File | Description |
 |---|---|
-| `Personal_Finance_Dashboard.xlsx` | Complete Excel project |
 | `Dashboard.png` | Final dashboard preview |
+| `Personal_Finance_Dashboard.xlsx` | Complete Excel project |
 | `README.md` | Project documentation |
+
+# Personal Finance & Savings Optimization Dashboard
+
+**Created by:** Sri Durgaa S K 
+**Project Type:** Individual Data Analytics Project  
+**Tool:** Microsoft Excel
