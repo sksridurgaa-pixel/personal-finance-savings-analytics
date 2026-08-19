@@ -65,7 +65,7 @@ additional savings.
 | File | Description |
 |---|---|
 | `Dashboard.png` | Final dashboard preview |
-| `Personal_Finance_Dashboard.xlsx` | Complete Excel project |
+|  `PERSONAL FINANCE & SAVING OPTIMIZATION DASHBOARD.xlsx`  | Complete Excel project |
 | `README.md` | Project documentation |
 
 # Personal Finance & Savings Optimization Dashboard
